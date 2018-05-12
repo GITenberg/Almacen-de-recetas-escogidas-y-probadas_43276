@@ -1,0 +1,33 @@
+_repo: Almacen-de-recetas-escogidas-y-probadas_43276
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43276-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2013-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43276'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Ice cream, ices, etc.'
+- !lcsh 'Liquors'
+- !lcsh 'Formulas, recipes, etc.'
+- !lcsh 'Syrups'
+- !lcc 'TP'
+title: "Almacen de recetas escogidas y probadas\r\nó sea tratado de jarabes, aguas\
+  \ destiladas, licores por destilación, vinos por imitación y helados"
+url: http://www.gutenberg.org/ebooks/43276
